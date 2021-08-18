@@ -61,7 +61,8 @@
             android:background="?attr/selectableItemBackground"
             android:text="Send"
             android:textColor="#000000"
-            android:textSize="10sp" />
+            android:textSize="13sp" />
+        // i changed text size above from 10sp to 13sp
 
     </RelativeLayout>
 
